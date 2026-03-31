@@ -22,6 +22,11 @@ src/utils.py: Veri setindeki sınıfların eğitim ve test setleri arasındaki d
 etmeyi sağlar.
 
 
+⚠️ **Önemli Not: Görseller Temsilidir**
+
+Aşağıda yer alan eğitim grafikleri ve doğruluk matrisi (confusion matrix), kodun ve veri akışının hatasız çalıştığını göstermek amacıyla eklenmiş **temsili erken test çıktılarıdır** (sadece 1 epoch'luk hızlı bir test). Bu kısa eğitim süresi nedeniyle görsellerdeki doğruluk oranı %34 seviyesinde görünmektedir.
+ Model, gerçek senaryoda uygun hiperparametrelerle tam eğitime sokulduğunda **%87 doğruluk (accuracy) oranına** ulaşmaktadır.
+
 <img width="690" height="625" alt="1000139170" src="https://github.com/user-attachments/assets/2f7fc078-2ddc-4d77-9570-4d1037024449" />
 <img width="790" height="812" alt="1000139169" src="https://github.com/user-attachments/assets/3b666a75-27c3-494a-98d0-0bbd5eb5b463" />
 <img width="790" height="812" alt="1000139168" src="https://github.com/user-attachments/assets/3b87829d-226a-4e9f-b8a2-63eb28221e70" />

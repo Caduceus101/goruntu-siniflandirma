@@ -1,0 +1,11 @@
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+__pycache__/
+*.py[cod]
+data/
+outputs/
+*.h5
+*.pth
